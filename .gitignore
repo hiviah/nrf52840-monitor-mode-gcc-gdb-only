@@ -1,0 +1,4 @@
+.idea/
+cmake-build-debug/
+pca10056/s140/armgcc/_build
+.gdb_history
